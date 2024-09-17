@@ -1,7 +1,6 @@
-HALO: Hallucination Analysis and Learning Optimization to Empower LLMs
-with Retrieval-Augmented Context for Guided Clinical Decision Making
+# **HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**
 
-Abstract
+# **Abstract**
 Large language models (LLMs) have significantly advanced
 natural language processing tasks, yet they are susceptible to
 generating inaccurate or unreliable responses, a phenomenon
@@ -24,3 +23,5 @@ LLMs, such as Llama-3.1 (from 44% to 65%) and ChatGPT
 cal importance of addressing hallucinations in medical QA
 systems, ultimately improving clinical decision-making and
 patient care.
+
+Paper: https://arxiv.org/pdf/2409.10011
