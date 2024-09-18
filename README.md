@@ -25,3 +25,9 @@ systems, ultimately improving clinical decision-making and
 patient care.
 
 Paper: https://arxiv.org/pdf/2409.10011
+
+## Installation
+To install the required dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
