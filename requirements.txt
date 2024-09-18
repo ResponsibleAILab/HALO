@@ -1,0 +1,24 @@
+# Core libraries and dependencies
+openai==0.27.2
+langchain==0.0.208
+scikit-learn==1.2.2
+numpy==1.24.3
+transformers==4.29.2
+faiss-cpu==1.7.3
+pandas==2.1.1
+
+# Document loaders and vector stores
+langchain_community==0.0.14
+faiss-cpu==1.7.3
+dotenv==1.0.0
+
+# Hugging Face for embeddings
+sentence-transformers==2.2.2
+huggingface-hub==0.15.1
+
+# Azure OpenAI for LLM API integration
+azure-openai==0.1.0
+python-dotenv==1.0.0
+
+# BioPython for PubMed retrieval
+biopython==1.81

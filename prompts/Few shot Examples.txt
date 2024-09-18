@@ -1,0 +1,56 @@
+Example 1:
+Context: The heart is a muscular organ in most animals, which pumps blood through the blood vessels of the circulatory system.
+Question: What is the main function of the heart?
+Options: (a) To Produce Hormones (b) To Digest Food (c) To Pump Blood (d) To Filter Waste
+Chain of Thought: (1) Identify the Organ mentioned in the context (heart)
+(2) Determine the function of heart as described (pumps blood)
+(3) Match the function with options provided
+(4) The correct option is (c)
+
+Example 2:
+Context: The mitochondria are known as the powerhouse of the cell because they generate most of the cell’s supply of adenosine triphosphate (ATP), used as a source of chemical energy.
+
+Question: What is the role of mitochondria in the cell?
+
+Options: (a) To Control Cell Division (b) To Store Genetic Information (c) To Produce Energy (d) To Transport Nutrients
+
+Chain of Thought: (1) Identify the organelle mentioned in the context (mitochondria)
+(2) Understand its function as described (generate ATP, chemical energy)
+(3) Match the function with the options provided
+(4) The correct option is (c)
+
+Example 3:
+Context: Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that can later be released to fuel the organisms' activities.
+
+Question: What is the purpose of photosynthesis?
+
+Options: (a) To Produce Energy from Light (b) To Absorb Water (c) To Release Carbon Dioxide (d) To Break Down Food
+
+Chain of Thought: (1) Identify the process mentioned (photosynthesis)
+(2) Determine the function of photosynthesis as described (convert light energy to chemical energy)
+(3) Match the function with the options provided
+(4) The correct option is (a)
+
+Example 4:
+Context: The liver is an essential organ in the body, performing various functions including detoxifying harmful substances, producing bile for digestion, and storing vitamins and minerals.
+
+Question: What is one of the main functions of the liver?
+
+Options: (a) To Pump Blood (b) To Store Genetic Material (c) To Produce Bile (d) To Regulate Hormones
+
+Chain of Thought: (1) Identify the organ mentioned in the context (liver)
+(2) Understand its function as described (produces bile)
+(3) Match the function with the options provided
+(4) The correct option is (c)
+
+Example 5:
+Context: The brain is the central organ of the human nervous system, coordinating all the body’s activities, such as movement, sensation, and thought processes.
+
+Question: What is the main role of the brain?
+
+Options: (a) To Pump Blood (b) To Regulate Body Functions (c) To Produce Hormones (d) To Filter Blood
+
+Chain of Thought: (1) Identify the organ mentioned in the context (brain)
+(2) Determine its role as described (coordinates activities)
+(3) Match the role with the options provided
+(4) The correct option is (b)

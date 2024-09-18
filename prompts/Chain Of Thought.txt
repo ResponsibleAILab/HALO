@@ -1,0 +1,7 @@
+Chain Of Thought:
+ 
+1. Identify the main subject or keyword in the Question.
+2. Understand the relationship between the subject and the Question asked
+3. Extract relevant information from the context that applies to the question.
+4. Analyze each option to determine which one aligns best with the extracted information.
+5. Provide the answer by selecting the correct option alphabet.
