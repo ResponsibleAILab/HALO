@@ -31,3 +31,9 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+
+## HALO Framework
+
+The following diagram illustrates the architecture of the HALO framework:
+
+![HALO Framework](EDA/halo_framework.png)
