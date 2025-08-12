@@ -1,4 +1,5 @@
-# **HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**
+# **HALO: Hallucination Analysis and Learning Optimization**
+## **to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**
 
 # **Abstract**
 Large language models (LLMs) have significantly advanced
@@ -31,6 +32,24 @@ Paper: https://arxiv.org/pdf/2409.10011
 The following diagram illustrates the architecture of the HALO framework:
 
 ![HALO Framework](EDA/halo_framework.png)
+
+## ✨ Key Features
+#  Feature	               Description
+Hallucination Reduction	   Retrieves fact-checked medical context and structures reasoning to minimize false information.
+Zero Model Fine-tuning	   Works with frozen commercial and open-source LLMs.
+Domain-Specific RAG	       Uses PubMed for trusted, up-to-date medical literature.
+MMR Ranking	               Ensures diversity and relevance in retrieved context.
+Reasoning Guidance	       Combines few-shot and CoT prompting for better decision-making.
+
+# 📊 Key Results
+Dataset: MedMCQA (194k medical MCQs across 21 subjects).
+The figure below shows HALO’s accuracy improvements across 21 medical subjects in the MedMCQA dataset for three LLMs — **ChatGPT-3.5**, **Llama-3.1 8B**, and **Mistral 7B**.  
+Blue bars indicate performance **with HALO**, while green bars show **LLM's accuracy** without HALO.
+
+![HALO Results Across 21 Subjects](EDA/combined_accuracy_comparision.jpg)
+
+Consistent accuracy improvements across all 21 subjects.
+Notable boosts for smaller models when retrieval is applied.
 
 ## Installation
 To install the required dependencies, run the following command:
