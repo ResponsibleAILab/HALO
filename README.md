@@ -37,6 +37,7 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## **Citation**
 If you use this work, please cite it as follows:
@@ -48,5 +49,5 @@ If you use this work, please cite it as follows:
   journal={arXiv preprint arXiv:2409.10011},
   year={2024}
 }
-
+```
 
