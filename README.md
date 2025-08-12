@@ -34,12 +34,14 @@ The following diagram illustrates the architecture of the HALO framework:
 ![HALO Framework](EDA/halo_framework.png)
 
 ## ✨ Key Features
-#  Feature	               Description
-Hallucination Reduction	   Retrieves fact-checked medical context and structures reasoning to minimize false information.
-Zero Model Fine-tuning	   Works with frozen commercial and open-source LLMs.
-Domain-Specific RAG	       Uses PubMed for trusted, up-to-date medical literature.
-MMR Ranking	               Ensures diversity and relevance in retrieved context.
-Reasoning Guidance	       Combines few-shot and CoT prompting for better decision-making.
+
+| Feature | Description |
+|---------|-------------|
+| **Hallucination Reduction** | Retrieves fact-checked medical context and structures reasoning to minimize false information. |
+| **Zero Model Fine-tuning** | Works with frozen commercial and open-source LLMs. |
+| **Domain-Specific RAG** | Uses PubMed for trusted, up-to-date medical literature. |
+| **MMR Ranking** | Ensures diversity and relevance in retrieved context. |
+| **Reasoning Guidance** | Combines few-shot and CoT prompting for better decision-making. |
 
 # 📊 Key Results
 Dataset: MedMCQA (194k medical MCQs across 21 subjects).
