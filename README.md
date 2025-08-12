@@ -34,7 +34,7 @@ The following diagram illustrates the architecture of the HALO framework:
 
 ## **Key Results**
 
-![Key Results Figure 1](EDA/combined_accuracy_comparison.pdf)  
+![Key Results Figure 1](EDA/combined_accuracy_comparison.jpg)  
 *Figure 1: Performance comparison of HALO with ChatGPT-3.5, LLaMa3.1, Mistral 7B.*
 
 
