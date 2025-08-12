@@ -38,10 +38,9 @@ To install the required dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
 
-## Citation
-
-If you find this work useful, please cite our paper:
-
+## **Citation**
+If you use this work, please cite it as follows:
+**BibTeX:**
 ```bibtex
 @article{anjum2024halo,
   title={Halo: Hallucination analysis and learning optimization to empower llms with retrieval-augmented context for guided clinical decision making},
