@@ -51,6 +51,7 @@ Blue bars indicate performance **with HALO**, while green bars show **LLM's accu
 ![HALO Results Across 21 Subjects](EDA/combined_accuracy_comparison.jpg)
 
 Consistent accuracy improvements across all 21 subjects.
+
 Notable boosts for smaller models when retrieval is applied.
 
 ## Installation
@@ -62,7 +63,7 @@ pip install -r requirements.txt
 
 ## **Citation**
 If you find this work useful, please cite it as follows:
-**BibTeX:**
+
 ```bibtex
 @article{anjum2024halo,
   title={Halo: Hallucination analysis and learning optimization to empower llms with retrieval-augmented context for guided clinical decision making},
