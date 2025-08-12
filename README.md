@@ -48,7 +48,7 @@ Dataset: MedMCQA (194k medical MCQs across 21 subjects).
 The figure below shows HALO’s accuracy improvements across 21 medical subjects in the MedMCQA dataset for three LLMs — **ChatGPT-3.5**, **Llama-3.1 8B**, and **Mistral 7B**.  
 Blue bars indicate performance **with HALO**, while green bars show **LLM's accuracy** without HALO.
 
-![HALO Results Across 21 Subjects](EDA/combined_accuracy_comparision.jpg)
+![HALO Results Across 21 Subjects](EDA/combined_accuracy_comparison.jpg)
 
 Consistent accuracy improvements across all 21 subjects.
 Notable boosts for smaller models when retrieval is applied.
