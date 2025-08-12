@@ -33,7 +33,7 @@ The following diagram illustrates the architecture of the HALO framework:
 
 ![HALO Framework](EDA/halo_framework.png)
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 |---------|-------------|
@@ -43,7 +43,7 @@ The following diagram illustrates the architecture of the HALO framework:
 | **MMR Ranking** | Ensures diversity and relevance in retrieved context. |
 | **Reasoning Guidance** | Combines few-shot and CoT prompting for better decision-making. |
 
-# 📊 Key Results
+## Key Results
 Dataset: MedMCQA (194k medical MCQs across 21 subjects).
 The figure below shows HALO’s accuracy improvements across 21 medical subjects in the MedMCQA dataset for three LLMs — **ChatGPT-3.5**, **Llama-3.1 8B**, and **Mistral 7B**.  
 Blue bars indicate performance **with HALO**, while green bars show **LLM's accuracy** without HALO.
