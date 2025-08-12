@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 ## **Citation**
-If you use this work, please cite it as follows:
+If you find this work useful, please cite it as follows:
 **BibTeX:**
 ```bibtex
 @article{anjum2024halo,
@@ -51,3 +51,6 @@ If you use this work, please cite it as follows:
 }
 ```
 
+## **Acknowledgments**
+This work was supported in part by the **Microsoft Accelerate Foundation Models Research Grant** and by the **National Institute on Aging (NIA)** under Grant No. **R21AG087192**.  
+                      **Responsible AI Lab**, University of North Texas.  
