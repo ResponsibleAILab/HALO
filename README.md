@@ -73,6 +73,8 @@ If you find this work useful, please cite it as follows:
 }
 ```
 
-## **Acknowledgments**
+## 🙏 **Acknowledgments**
+
 This work was supported in part by the **Microsoft Accelerate Foundation Models Research Grant** and by the **National Institute on Aging (NIA)** under Grant No. **R21AG087192**.  
-                      **Responsible AI Lab**, University of North Texas.  
+
+Research conducted at the [**Responsible AI Lab**](https://responsibleailab.github.io/), University of North Texas.  
