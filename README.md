@@ -65,11 +65,13 @@ pip install -r requirements.txt
 If you find this work useful, please cite it as follows:
 
 ```bibtex
-@article{anjum2024halo,
+@inproceedings{anjum2025halo,
   title={Halo: Hallucination analysis and learning optimization to empower llms with retrieval-augmented context for guided clinical decision making},
   author={Anjum, Sumera and Zhang, Hanzhi and Zhou, Wenjun and Paek, Eun Jin and Zhao, Xiaopeng and Feng, Yunhe},
-  journal={arXiv preprint arXiv:2409.10011},
-  year={2024}
+  booktitle={2025 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)},
+  pages={187--198},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
